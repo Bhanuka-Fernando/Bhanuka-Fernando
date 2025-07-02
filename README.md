@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanuka Fernando</h1>
-<h3 align="center">Software Engineering Undergraduate | MERN | Java | .NET | Spring Boot | Building Real-World Solutions 🚀</h3>
-
+<h3 align="center">Software Engineering Undergraduate | Building Real-World Solutions 🚀</h3>
+> 🧠 “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhanuka-fernando&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -79,15 +79,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuka-fernando&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
-
----
-
-### 🔭 Projects Worth Exploring
-
-- 🏥 [CSSE Healthcare Appointment System](#) – Spring Boot + React-based patient booking & lab service platform  
-- 🍕 [Smart Pizza Maker with OSGi](#) – Modular pizza customization and stock tracking using Apache Felix  
-- 🎓 [FeedForward App](#) – MERN stack donation tracker for student meals  
-
-> 🧠 “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene
 
 ---
