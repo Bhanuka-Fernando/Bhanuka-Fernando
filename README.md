@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanuka Fernando</h1>
 <h4 align="center">Software Engineering Undergraduate | Building Real-World Solutions 🚀</h4>
-<h5 align="center">🧠 “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene </h5>
+<h5 align="center">🧠 &nbsp;“The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene </h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhanuka-fernando&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,27 +10,27 @@
 
 ### 👨‍💻  About Me
 
--  🎓  Third-year Software Engineering undergraduate at **SLIIT**
+-  &nbsp;🎓 &nbsp; Third-year Software Engineering undergraduate at **SLIIT**
   
--  💼  6-month **Software Engineering Intern** experience at **Arimac**
+-  &nbsp;💼 &nbsp; 6-month **Software Engineering Intern** experience at **Arimac**
   
--  🌱  Currently learning: **Spring Boot**, **.NET Core**, **Docker**, and advanced backend techniques
+-  &nbsp;🌱 &nbsp; Currently learning: **Spring Boot**, **.NET Core**, **Docker**, and advanced backend techniques
   
--  🛠️  Passionate about turning **ideas into scalable, user-centric software**
+-  &nbsp;🛠️ &nbsp; Passionate about turning **ideas into scalable, user-centric software**
   
--  💬  Ask me about: Java, MERN Stack, .NET, OSGi, Spring Boot, or how to build impactful projects!
+-  &nbsp;💬 &nbsp; Ask me about: Java, MERN Stack, .NET, OSGi, Spring Boot, or how to build impactful projects!
   
--  📫  Reach me at: **bhanukafernando2@gmail.com**
+-  &nbsp;📫 &nbsp; Reach me at: **bhanukafernando2@gmail.com**
 
 ---
 
-### 🌐  Connect With Me
+### 🌐 &nbsp; Connect With Me
 
 <p align="left"> <a href="https://www.linkedin.com/in/bhanuka-fernando/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp;&nbsp;<a href="https://fb.com/bhanuka.fernando" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> &nbsp;&nbsp;<a href="https://instagram.com/bhanuka_fd" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p>
 
 ---
 
-### 🛠️  Tech Stack & Tools
+### 🛠️ &nbsp; Tech Stack & Tools
 
 <p align="center">
   <!-- Languages -->
@@ -74,7 +74,7 @@
 
 ---
 
-### 📊  GitHub Stats
+### 📊&nbsp;  GitHub Stats
 
 <p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=bhanuka-fernando&show_icons=true&theme=github_dark&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;&nbsp; <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuka-fernando&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/> </p>
 
