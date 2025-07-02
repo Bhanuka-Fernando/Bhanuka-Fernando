@@ -10,10 +10,15 @@
 ### 👨‍💻 About Me
 
 - 🎓 Third-year Software Engineering undergraduate at **SLIIT**
+  
 - 💼 6-month **Software Engineering Intern** experience at **Arimac**
+  
 - 🌱 Currently learning: **Spring Boot**, **.NET Core**, **Docker**, and advanced backend techniques
+  
 - 🛠️ Passionate about turning **ideas into scalable, user-centric software**
+  
 - 💬 Ask me about: Java, MERN Stack, .NET, OSGi, Spring Boot, or how to build impactful projects!
+  
 - 📫 Reach me at: **bhanukafernando2@gmail.com**
 
 ---
