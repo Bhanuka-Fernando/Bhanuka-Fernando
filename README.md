@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanuka Fernando</h1>
-<h3 align="center">Software Engineering Undergraduate | Building Real-World Solutions 🚀</h3>
-<h4 align="center">🧠 “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene </h4>
+<h4 align="center">Software Engineering Undergraduate | Building Real-World Solutions 🚀</h4>
+<h5 align="center">🧠 “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene </h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhanuka-fernando&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,17 +10,17 @@
 
 ### 👨‍💻  About Me
 
-- 🎓 Third-year Software Engineering undergraduate at **SLIIT**
+-  🎓  Third-year Software Engineering undergraduate at **SLIIT**
   
-- 💼 6-month **Software Engineering Intern** experience at **Arimac**
+-  💼  6-month **Software Engineering Intern** experience at **Arimac**
   
-- 🌱 Currently learning: **Spring Boot**, **.NET Core**, **Docker**, and advanced backend techniques
+-  🌱  Currently learning: **Spring Boot**, **.NET Core**, **Docker**, and advanced backend techniques
   
-- 🛠️ Passionate about turning **ideas into scalable, user-centric software**
+-  🛠️  Passionate about turning **ideas into scalable, user-centric software**
   
-- 💬 Ask me about: Java, MERN Stack, .NET, OSGi, Spring Boot, or how to build impactful projects!
+-  💬  Ask me about: Java, MERN Stack, .NET, OSGi, Spring Boot, or how to build impactful projects!
   
-- 📫 Reach me at: **bhanukafernando2@gmail.com**
+-  📫  Reach me at: **bhanukafernando2@gmail.com**
 
 ---
 
